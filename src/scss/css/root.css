@@ -1,0 +1,12 @@
+:root{
+
+    --primary_color: red;
+    --second_color: white;
+
+
+    --primary_font: -apple-system, sans-serif;
+    --second_font: Poppins;
+
+    --transition: all 0.3s;
+}
+

@@ -1,0 +1,9 @@
+@use "/scsse/transitions" as tran;
+
+@mixin button_hover{
+  transition: tran.$tran-sm;
+
+  &:hover{
+
+  }
+}
