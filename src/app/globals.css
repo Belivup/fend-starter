@@ -1,6 +1,5 @@
-
-@import "src/scss/css/root.css";
-@import "src/scss/css/normalize.css";
-@import "src/scss/css/general.css";
+@import "/src/scss/css/root.css";
+@import "/src/scss/css/normalize.css";
+@import "/src/scss/css/general.css";
 
 @import "iconview/style.css";

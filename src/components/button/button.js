@@ -1,8 +1,8 @@
 import css from './button.module.scss'
 
-export default function Button(){
+export default function Button() {
 
-    return(
+    return (
         <button className={css.btn}>
             Click Button
         </button>
